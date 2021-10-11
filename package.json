@@ -1,6 +1,6 @@
 {
   "name": "mathswap-sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "license": "ISC",
   "description": "🛠 An SDK for building applications on top of MathSwap.",
   "main": "dist/index.js",
